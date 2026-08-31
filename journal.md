@@ -1,0 +1,1 @@
+//Today I learned how to maneuver through terminal better using the git commands. I also learned how to commit things to my repository so I can have everything in one place.
